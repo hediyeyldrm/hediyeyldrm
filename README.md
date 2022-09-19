@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="9000" height="500"  src="https://images.viblo.asia/73758748-ca0a-4439-9bc3-5a729e059db9.gif">
+<img align="center" alt="Coding" width="1000" height="300"  src="https://miro.medium.com/max/1400/1*KN7zbaWkbm5E71zZWfTf7A.gif">
 <h1 align="center">Hi 👋, I'm Hediye 👩🏻‍💻</h1>
 <h3 align="left"> I'm a software developer trying to learn about front-end web development with HTML, CSS, and JavaScript. My goal is to be a skilled front-end developer 💻🖱 </h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
