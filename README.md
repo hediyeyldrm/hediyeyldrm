@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **hediyeyldrm2@gmail.com**
 
